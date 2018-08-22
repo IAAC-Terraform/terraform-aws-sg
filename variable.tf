@@ -24,6 +24,3 @@ variable "to_port" {}
 
 variable "protocol" {}
 
-variable "rule_description" {
-    default = "A sample rule"
-}
